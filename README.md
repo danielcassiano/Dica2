@@ -11,7 +11,7 @@ No GitHub, clique em **Fork** no repositório original.
 
 ### 2. Clonar o Fork
 
-git clone https://github.com/SEU-USUARIO/node.js-e-express.git cd node.js-e-express
+git clone https://github.com/SEU-USUARIO/node.js-e-express cd node.js-e-express
 
 ---
 
